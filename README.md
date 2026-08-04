@@ -1,3 +1,5 @@
+[English](README.en.md) | 简体中文
+
 <div align="center">
 
 <!-- <img src="assets/banner.png" alt="Seedance Video Script" width="100%"> -->
@@ -22,9 +24,9 @@
 
 ## 项目简介
 
-一个 **Claude Code / Agent 原生**的 Skill:输入商业意图 + 素材,输出可直接粘到**即梦 Dreamina / 火山方舟 Ark**的 Seedance 2.5 完整分镜 prompt + 素材上传顺序。
+一个 **Agent 通用**的 Skill:输入商业意图 + 素材,输出可直接粘到**即梦 Dreamina / 火山方舟 Ark**的 Seedance 2.5 完整分镜 prompt + 素材上传顺序。
 
-- **Agent 原生**:装到 Claude Code 即用,Agent 按 5 步流程帮你生成 prompt
+- **Agent 通用**:适配任意 Agent(Codex / Claude Code / Cursor 等),装上即按 5 步流程生成 prompt
 - **平台兼容**:产出适配即梦(C 端)和火山方舟(B 端 API)两个平台
 - **零依赖**:不调 API、不生成视频本身,纯知识底座 + prompt 生成
 
