@@ -1,8 +1,7 @@
 [English](README.en.md) | 简体中文
 
 <div align="center">
-
-<!-- <img src="assets/banner.png" alt="Seedance Video Script" width="100%"> -->
+<img width="1922" height="818" alt="ChatGPT Image 2026年8月4日 17_17_27" src="https://github.com/user-attachments/assets/f1802e81-bfb3-44b0-922c-a2a93873762a" />
 
 # 🎬 Seedance Video Script
 
@@ -92,6 +91,18 @@ seedance-video-script/
 [MIT](LICENSE) · Copyright (c) 2026 Buluu@新西楼.AI
 
 <div align="center">
+    
+</div>
+
+## 📖 写在最后
+
+<div align="center">
+    
+**欢迎跨境电商从业者来我们「MBG 跨境AI实战圈」玩耍，一起探索AI+商业的最佳实践和真实边界。**
+
+**社区介绍：https://mp.weixin.qq.com/s/dOz4fLmRnaFR7sD_TQm00Q**
+
+<img width="1125" height="618" alt="05d6a63c0a96a067499803b945259e94" src="https://github.com/user-attachments/assets/cb265b81-11e7-40a1-8188-d802ee5f83f1" />
 
 **如果这个工具帮到了你,欢迎 ⭐ Star 支持。更多 AI × 跨境电商实操内容,关注公众号「新西楼.AI」。**
 
