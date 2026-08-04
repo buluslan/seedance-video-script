@@ -24,9 +24,9 @@
 
 ## Overview
 
-An **agent-native** Skill: feed it business intent + assets, and it outputs a complete Seedance 2.5 storyboard prompt — ready to paste into **Dreamina / Volcengine Ark** — plus the asset upload order.
+An **agent-agnostic** Skill: feed it business intent + assets, and it outputs a complete Seedance 2.5 storyboard prompt — ready to paste into **Dreamina / Volcengine Ark** — plus the asset upload order.
 
-- **Agent-native**: works with any agent (Codex / Claude Code / Cursor, etc.) — install it and generate prompts via the 5-step flow
+- **Agent-agnostic**: works with any agent (Codex / Claude Code / Cursor, etc.) — install it and generate prompts via the 5-step flow
 - **Platform-compatible**: outputs fit both Dreamina (C-end) and Volcengine Ark (B-end API)
 - **Zero dependencies**: no API calls, doesn't render the video itself — a pure knowledge base + prompt generator
 
