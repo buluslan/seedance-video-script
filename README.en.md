@@ -8,7 +8,7 @@
 
 **Turn business intent + assets into ready-to-use Seedance 2.5 video storyboard prompts**
 
-**Want the latest AI industry trends, AI × e-commerce/advertising practices, and thoughts on human-AI collaboration? Follow the WeChat Official Account: 【新西楼】**
+**Want the latest AI industry trends, AI × e-commerce/advertising practices, and thoughts on human-AI collaboration? Follow the WeChat Official Account: 【新西楼.AI】**
 
 ![qrcode_for_gh_e3b954bd3859_258](https://github.com/user-attachments/assets/d8f068d9-c4f8-46c7-914c-fbcab5d52f2a)
 
@@ -18,7 +18,7 @@
 
 **Timestamped storyboards · @reference syntax · White-model refs · Green-screen/region/camera editing · Native audio · SPACE framework · Zero dependencies**
 
-**Created By Buluu@新西楼**
+**Created By Buluu@新西楼.AI**
 
 </div>
 
@@ -89,10 +89,10 @@ seedance-video-script/
 
 ## 📜 License
 
-[MIT](LICENSE) · Copyright (c) 2026 Buluu@新西楼
+[MIT](LICENSE) · Copyright (c) 2026 Buluu@新西楼.AI
 
 <div align="center">
 
-**If this tool helped you, a ⭐ Star is appreciated. For more AI × cross-border e-commerce practices, follow the WeChat Official Account 「新西楼」.**
+**If this tool helped you, a ⭐ Star is appreciated. For more AI × cross-border e-commerce practices, follow the WeChat Official Account 「新西楼.AI」.**
 
 </div>

@@ -8,7 +8,7 @@
 
 **把商业意图 + 素材,转成 Seedance 2.5 可直接使用的视频分镜提示词**
 
-**想了解更多最新AI行业动态,AI+电商/广告的行业实践方法,人与AI如何协作共生的思考,请关注公众号:【新西楼】**
+**想了解更多最新AI行业动态,AI+电商/广告的行业实践方法,人与AI如何协作共生的思考,请关注公众号:【新西楼.AI】**
 
 ![qrcode_for_gh_e3b954bd3859_258](https://github.com/user-attachments/assets/d8f068d9-c4f8-46c7-914c-fbcab5d52f2a)
 
@@ -18,7 +18,7 @@
 
 **时间戳分镜 · @引用语法 · 白模参考 · 绿幕/区域/运镜编辑 · 原生音频 · SPACE 框架 · 零依赖**
 
-**Created By Buluu@新西楼**
+**Created By Buluu@新西楼.AI**
 
 </div>
 
@@ -89,10 +89,10 @@ seedance-video-script/
 
 ## 📜 License
 
-[MIT](LICENSE) · Copyright (c) 2026 Buluu@新西楼
+[MIT](LICENSE) · Copyright (c) 2026 Buluu@新西楼.AI
 
 <div align="center">
 
-**如果这个工具帮到了你,欢迎 ⭐ Star 支持。更多 AI × 跨境电商实操内容,关注公众号「新西楼」。**
+**如果这个工具帮到了你,欢迎 ⭐ Star 支持。更多 AI × 跨境电商实操内容,关注公众号「新西楼.AI」。**
 
 </div>
