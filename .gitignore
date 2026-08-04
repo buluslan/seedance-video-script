@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+reports/
+.flow_state/
+cache/
+logs/
+*.log
+*.tmp
