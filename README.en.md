@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<!-- <img src="assets/banner.png" alt="Seedance Video Script" width="100%"> -->
+<img width="1922" height="818" alt="Seedance Video Script banner" src="https://github.com/user-attachments/assets/f1802e81-bfb3-44b0-922c-a2a93873762a" />
 
 # 🎬 Seedance Video Script
 
@@ -91,7 +91,15 @@ seedance-video-script/
 
 [MIT](LICENSE) · Copyright (c) 2026 Buluu@新西楼.AI
 
+## 📖 One More Thing
+
 <div align="center">
+
+**Cross-border e-commerce practitioners are welcome to join our 「MBG 跨境AI实战圈」 community — let's explore the best practices and real boundaries of AI + business together.**
+
+**Community intro: https://mp.weixin.qq.com/s/dOz4fLmRnaFR7sD_TQm00Q**
+
+<img width="1125" height="618" alt="MBG community" src="https://github.com/user-attachments/assets/cb265b81-11e7-40a1-8188-d802ee5f83f1" />
 
 **If this tool helped you, a ⭐ Star is appreciated. For more AI × cross-border e-commerce practices, follow the WeChat Official Account 「新西楼.AI」.**
 
